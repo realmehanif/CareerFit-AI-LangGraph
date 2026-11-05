@@ -279,7 +279,7 @@ See `.env.example` for the full annotated list. `.env` is gitignored and no key 
 
 
 
-**GitHub: https://github.com/hanifbhaiyu/careerfit-ai_C223403
+
 
 YouTube: 
 
